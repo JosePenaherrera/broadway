@@ -11,14 +11,21 @@ body {
   text-align: center;
 }
 
-header {
-  background-image: url('../images/the-flatiron-building.png');
-}
-
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: #fff;
 }
 
+
+
 /* Main Styles --------------------- */
+
+.main-header {
+    background-image: url('../images/the-flatiron-building.png');
+    color: #fff;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: #fff;
+}
