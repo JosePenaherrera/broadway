@@ -26,6 +26,12 @@ h3 {
   font-weight: bold;
 }
 
+footer {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 11px;
+  color: #fff;
+}
 
 
 /* Main Styles --------------------- */
@@ -38,4 +44,13 @@ h3 {
 .btn-nav {
   font-size: 18px;
   color: #fff;
+}
+
+.item p {
+  font-size: 14px;
+}
+
+.banner {
+    background-image: url('../images/the-flatiron-building.png');
+    color: #fff;
 }
